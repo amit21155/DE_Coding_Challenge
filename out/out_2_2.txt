@@ -1,0 +1,2 @@
+min_Price	max_Price	row_count
+10	10000	7146

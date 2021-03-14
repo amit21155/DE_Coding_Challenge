@@ -1,0 +1,2 @@
+host_total_listings_count	price	review_scores_rating
+1	10	100
